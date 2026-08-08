@@ -1,23 +1,6 @@
 # WeaveKit
 
-**Live Demo:** [https://weavekit.netlify.app](https://weavekit.netlify.app)
-
 A production-ready real-time collaborative code editor that enables multiple users to write code together simultaneously. Built with modern web technologies and deployed on cloud infrastructure, WeaveKit demonstrates full-stack development capabilities including distributed systems, database management, and real-time communication protocols.
-
----
-
-## Live Demo
-
-### Quick Start Guide:
-1. Visit the live demo link
-2. Start typing code in the editor
-3. Open the same link on another device or share with a friend
-4. Watch real-time synchronization in action!
-
-### Sharing Sessions:
-- Click **"Share"** button to copy session link
-- Send link to collaborators via text, email, or any messaging app
-- All users with the link will join the same collaborative session
 
 ---
 
